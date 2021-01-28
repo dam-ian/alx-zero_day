@@ -1,0 +1,1 @@
+This is my first encounter with vi, checking out the basics!
